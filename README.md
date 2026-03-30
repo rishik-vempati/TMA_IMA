@@ -1,4 +1,4 @@
-<img width="3434" height="1530" alt="image" src="https://github.com/user-attachments/assets/78f6c14d-bf32-4f51-b788-557d220dcdca" /># IMA & TMA: Efficient Test-Time Adaptation for VLMs via Linear Transformation in Embedding-Space
+# IMA & TMA: Efficient Test-Time Adaptation for VLMs via Linear Transformation in Embedding-Space
 
 This repo provides the source code of our approach that was accepted in CVPR'26 ViScale workshop.
 
