@@ -12,5 +12,7 @@ Extensive evaluations across diverse out-of-distribution (OOD) benchmarks and cr
 
 ## Methodology
 ### IMA : Image Matrix Adapter
+![img](images/methodology/IMA.png)
 
 ### TMA : Text Matrix Adapter
+![img](images/methodology/TMA.png)
