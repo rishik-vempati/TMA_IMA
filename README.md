@@ -34,3 +34,25 @@ Experiments were conducted using the following software setup:
 
 - OS: Linux (Ubuntu-based)
 - Python: 3.7.12
+
+## Datasets
+We use the following datasets for our experiments.
+
+5 ImageNet variants under Natural Distribution shifts
+- [ImageNet](https://image-net.org/index.php)
+- [ImageNet-A](https://github.com/hendrycks/natural-adv-examples)
+- [ImageNet-V2](https://s3-us-west-2.amazonaws.com/imagenetv2public/imagenetv2-matched-frequency.tar.gz)
+- [ImageNet-R](https://github.com/hendrycks/imagenet-r)
+- [ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch)
+
+10 Finegrained classification benchamrks for cross-dataset generalization
+- [CalTech](https://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz)
+- [OxfordPets](https://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz)
+- [StanfordCars](https://huggingface.co/datasets/tanganke/stanford_cars)
+- [Flower102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
+- [Food101](http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz)
+- [Aircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
+- [SUN397](https://huggingface.co/datasets/1aurent/SUN397)
+- [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/download/dtd-r1.0.1.tar.gz)
+- [EuroSAT](http://madm.dfki.de/files/sentinel/EuroSAT.zip)
+- [UCF101](https://drive.google.com/file/d/10Jqome3vtUA2keJkNanAiFpgbyC9Hc2O/view?usp=sharing)
