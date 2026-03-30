@@ -16,3 +16,21 @@ Extensive evaluations across diverse out-of-distribution (OOD) benchmarks and cr
 
 ### TMA : Text Matrix Adapter
 ![img](images/methodology/TMA.png)
+
+## Prerequisites
+### Hardware
+Experiments were conducted on a remote GPU server with the following configuration:
+
+- GPUs: 8 × NVIDIA Tesla V100-SXM2 (32 GB VRAM each)
+- CUDA Version: 12.2
+- Platform: Linux-based system
+
+#### Resource Usage
+- GPU memory used per experiment: ~1.5–2 GB 
+- Adaptation-specific memory usage: ~0.72 GB
+
+### Software Environment
+Experiments were conducted using the following software setup:
+
+- OS: Linux (Ubuntu-based)
+- Python: 3.7.12
